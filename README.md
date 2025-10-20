@@ -24,7 +24,7 @@ Este projeto é uma API RESTful desenvolvida com **ASP.NET Core**, conectada a u
 ### Pré-requisitos
 
 - [.NET 8 SDK](https://dotnet.microsoft.com/en-us/download)
-- [SQL Server](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads)
+- [PostgreSQL]([https://www.microsoft.com/pt-br/sql-server/sql-server-downloads](https://www.postgresql.org/download/))
 - [Visual Studio 2022](https://visualstudio.microsoft.com/) ou [VS Code](https://code.visualstudio.com/)
 
 ### Passos
