@@ -1,13 +1,13 @@
 # Minha Primeira API
 
-Este projeto é uma API RESTful desenvolvida com **ASP.NET Core**, conectada a um **banco de dados SQL Server**, com operações CRUD completas e testes via **Swagger**. Foi criada como prática para consolidar conhecimentos em desenvolvimento backend com C#.
+Este projeto é uma API RESTful desenvolvida com **ASP.NET Core**, conectada a um **banco de dados PostgreSQL**, com operações CRUD completas e testes via **Swagger**. Foi criada como prática para consolidar conhecimentos em desenvolvimento backend com C#.
 
 ## 🔧 Tecnologias Utilizadas
 
 - ASP.NET Core 8
 - C#
 - Entity Framework Core
-- SQL Server
+- PostgreSQL
 - Swagger (Swashbuckle)
 - REST API
 
