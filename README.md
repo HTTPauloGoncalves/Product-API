@@ -40,7 +40,7 @@ bash
 Copiar
 Editar
 cd Minha-primeira-API
-Configure a connection string em appsettings.json com os dados do seu SQL Server:
+Configure a connection string em appsettings.json com os dados do seu PostgreSQL:
 
 json
 Copiar
@@ -48,7 +48,6 @@ Editar
 "ConnectionStrings": {
   "DefaultConnection": "Server=SEU_SERVIDOR;Database=NOME_DO_BANCO;Trusted_Connection=True;TrustServerCertificate=True;"
 }
-Execute as migrações (se estiver usando EF Core):
 
 bash
 Copiar
