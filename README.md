@@ -1,13 +1,13 @@
 # Minha Primeira API
 
-Este projeto é uma API RESTful desenvolvida com **ASP.NET Core**, conectada a um **banco de dados SQL Server**, com operações CRUD completas e testes via **Swagger**. Foi criada como prática para consolidar conhecimentos em desenvolvimento backend com C#.
+Este projeto é uma API RESTful desenvolvida com **ASP.NET Core**, conectada a um **banco de dados PostgreSQL**, com operações CRUD completas e testes via **Swagger**. Foi criada como prática para consolidar conhecimentos em desenvolvimento backend com C#.
 
 ## 🔧 Tecnologias Utilizadas
 
 - ASP.NET Core 8
 - C#
 - Entity Framework Core
-- SQL Server
+- PostgreSQL
 - Swagger (Swashbuckle)
 - REST API
 
@@ -24,7 +24,7 @@ Este projeto é uma API RESTful desenvolvida com **ASP.NET Core**, conectada a u
 ### Pré-requisitos
 
 - [.NET 8 SDK](https://dotnet.microsoft.com/en-us/download)
-- [SQL Server](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads)
+- [PostgreSQL](https://www.postgresql.org/download/)
 - [Visual Studio 2022](https://visualstudio.microsoft.com/) ou [VS Code](https://code.visualstudio.com/)
 
 ### Passos
@@ -40,7 +40,7 @@ bash
 Copiar
 Editar
 cd Minha-primeira-API
-Configure a connection string em appsettings.json com os dados do seu SQL Server:
+Configure a connection string em appsettings.json com os dados do seu PostgreSQL:
 
 json
 Copiar
